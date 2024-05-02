@@ -13,7 +13,7 @@ Uma plataforma integrada de experiência de funcionários alimentada pelo Micros
 
 
 Viva abrange em 4 áreas de experiência única:
-	- Conexão 
+	- Conexão  
 	- Insight 
 	- Motivação 
 	- Crescimento
