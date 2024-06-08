@@ -3,7 +3,7 @@ Estudo certificação MS-900
  
  
 Descrever os aplicativos do Microsoft Viva
-![image] (https://github.com/offsvi/Microsoft-MS-900/assets/109491127/6be39541-5ca5-41a4-ad97-af5a86deb29b) 
+![image] (https://github.com/offsvi/Microsoft-MS-900/assets/109491127/6be39541-5ca5-41a4-ad97-af5a86deb29b)
 
 Microsoft Viva é uma plataforma de experiência de Funcionários (EXP). É integrado diretamente ao Microsoft Teams para que os usuários encontre o que precisam. Também da para integrar o Viva com o Copilot para aumentar a produtividade e engajamento. 
 O Viva reúne todas as ferramentas que os usuários precisam para o trabalho.
