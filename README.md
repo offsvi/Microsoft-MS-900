@@ -129,3 +129,59 @@ Questões de simulado:
 	30) Para que é utilizado o Microsoft Compliance Store?
 	É utilizado para fazer avalição de riscos e conformidade. ![image](https://github.com/offsvi/Microsoft-MS-900/assets/109491127/9b5f2865-a0c8-4976-991d-edcecd648655)
 
+Clipchamp 
+	Criação e edição de video online que oferece recursos para criar e editar videos 
+
+
+MS Dynamic 365
+	É um conjunto de aplicativos de negócios que ajuda você administrar o seu negocio. 
+
+MS Delve 
+	Foi criado para ajudar os usuários a descobrirem e compartilhar informações relevantes dentro de uma organização.
+
+Power BI 
+	Conjunto de ferramentas de análise de negócios baseado em nuvem que permite que qualquer pessoa conecte. 
+
+MS Sway
+	Ferramenta de apresentação e narrativa digital que permite que os usuários criem apresentações interativas e histórias de maneira 
+Fácil sem exigir muitas habilidades.
+
+MS Whiteboard
+	É uma tela de formato livre, funciona com um quadro branco tradicional. Mas é hospedado virtualmente. 
+
+Descrevendo soluções de colaboração do MS 365
+
+MS Exchange Online 	É uma solução de mensagens hospedadas que fornece email, calendário, contatos e tarefas. Também faz interação com Outlook.
+
+MS Outlook 
+	Cliente de gerenciador de email e gerenciador de informações pessoais, utilizado para receber e enviar emails. 
+	altamente integrado com o MS exchange.
+
+MS SharePoint 
+	Plataforma de colaboração que permite as organizacoes armazenam organizam e compartilham informações de maneira eficiente. 
+
+OneDrive
+	Serviços de armazenamento em nuvem que permite que os usuários armazém e compartilhem dados pela internet. Também permite que 
+Sincronize com outros dispositivos. Também tem a visualizacao do que esta sendo alterado em tempo real.
+
+MS Stram 
+	Serviço de video empresarial projetado para permitir que as organizacoes criem e compartilhem e descubram videos internos. 
+
+MS Teams 
+	Plataforma de colaboracao baseada em chat videoconferência e compartilhamento de arquivos. 
+
+MS Viva 
+	É uma plataforma de experiencia do funcionário que capacita pessoas e equipes a darem o melhor de si.
+	
+
+
+
+
+
+
+
+
+
+
+
+
