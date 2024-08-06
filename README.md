@@ -172,6 +172,46 @@ MS Teams
 
 MS Viva 
 	É uma plataforma de experiencia do funcionário que capacita pessoas e equipes a darem o melhor de si.
+
+ 
+	Microsoft 365 Defender XDR 
+
+É um pacote de segurança aonde faz a detecção e proteção de ameaças. Temos defender para:
+	* EndPoint
+	* App Cloud 
+	* Office 365
+	* Identidades 
+
+	Defender para EndPoint 
+
+É uma plataforma projetada para proteger dispositivos finais. Funciona a partir do Win10 ou posteriores.
+Faz uma analise de segurança em nuvem e tem inteligência contra ameaças.  
+
+	Recursos do MS Defender 
+
+- Gerenciamento de vulnerabilidade do Core Defender - Oferece recursos integrados para descoberta, avaliação, priorização e correção de vulnerabilidades e configurações incorporadas nos EndPoints.
+
+	Redução da superficie de ataque 
+Implementa uma primeira linha de defesa, garante configurações adequadas e aplica técnicas de mitigação.
+
+	Next Generation Protection
+Utiliza proteção anti vírus baseado em comportamento. Também inclui serviços de proteção a nuvem. 
+
+	Detecção e reposta de endpoint 
+Fornece uma deteção quase em tempo real e permite que os alertas sejam priorizados.
+
+	Investigação de remediacao automatizada 
+Utiliza tecnologia  investigacao Automatizada com algoritmo de inspeção.
+
+	Microsoft Secure Score par Device 
+ Avalia dinamicamente  estado de segurança a rede corporativa, identificando sistemas desprotegidos.
+
+	Microsoft Threat Experts 
+Um serviço gerenciado de caca de ameacas que oferecem uma caca proativa. 
+
+	Gerenciamento de APIs 
+Fornece um modelo de API para expor entidades e recursos por um modelo de recursos padrão de autenticação. 
+
 	
 
 
